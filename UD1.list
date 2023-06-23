@@ -12,3 +12,30 @@
 # MATCH：全匹配
 
 DOMAIN-SUFFIX,dler.io
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,ihg.com
+DOMAIN-SUFFIX,gov.hk
+DOMAIN-SUFFIX,com.tw
+DOMAIN-SUFFIX,garmin.com
+DOMAIN-SUFFIX,sci-hub.se
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,kuromis.com
+DOMAIN-SUFFIX,justmysocks.net
+DOMAIN-SUFFIX,1lib.fr
+DOMAIN-SUFFIX,1lib.ch
+DOMAIN-SUFFIX,1lib.ch
+DOMAIN-SUFFIX,simplecast.com
+DOMAIN-SUFFIX,omny.fm
+DOMAIN-SUFFIX,padtrac.com
+DOMAIN-SUFFIX,omny.fm
+DOMAIN-SUFFIX,podcast.co
+DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,pinecast.net
+DOMAIN-SUFFIX,podbean.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,64clouds.com
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,ultra.me
+DOMAIN-SUFFIX,ultramobile.com
+
