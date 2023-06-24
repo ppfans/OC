@@ -11,4 +11,5 @@
 # RULE-SET：Rule Provider 规则匹配
 # MATCH：全匹配
 
-# DOMAIN-SUFFIX,checkpoint.com
+# 不走代理
+DOMAIN-SUFFIX,checkpoint.com
