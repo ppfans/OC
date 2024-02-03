@@ -50,7 +50,7 @@ DOMAIN-SUFFIX,bbchat.tv
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,pki.goog
-DOMAIN-SUFFIX,svc.ms
+#DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,hamibot.com
