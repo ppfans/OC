@@ -69,4 +69,4 @@ DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,salesforce.com
 DOMAIN-SUFFIX,force.com
-DOMAIN-SUFFIX,msftauth.net
+# DOMAIN-SUFFIX,msftauth.net
