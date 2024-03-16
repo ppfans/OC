@@ -1,0 +1,72 @@
+# NAME: UD
+# DOMAIN-SUFFIX：域名后缀匹配
+# DOMAIN：域名匹配
+# DOMAIN-KEYWORD：域名关键字匹配
+# IP-CIDR：IP 段匹配
+# SRC-IP-CIDR：源 IP 段匹配
+# GEOIP：GEOIP 数据库（国家代码）匹配
+# DST-PORT：目标端口匹配
+# SRC-PORT：源端口匹配
+# PROCESS-NAME：源进程名匹配
+# RULE-SET：Rule Provider 规则匹配
+# MATCH：全匹配
+
+DOMAIN-SUFFIX,dler.io
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,ihg.com
+DOMAIN-SUFFIX,gov.hk
+DOMAIN-SUFFIX,com.tw
+DOMAIN-SUFFIX,garmin.com
+DOMAIN-SUFFIX,sci-hub.se
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,kuromis.com
+DOMAIN-SUFFIX,justmysocks.net
+DOMAIN-SUFFIX,1lib.fr
+DOMAIN-SUFFIX,1lib.ch
+DOMAIN-SUFFIX,1lib.ch
+DOMAIN-SUFFIX,simplecast.com
+DOMAIN-SUFFIX,omny.fm
+DOMAIN-SUFFIX,padtrac.com
+DOMAIN-SUFFIX,omny.fm
+DOMAIN-SUFFIX,podcast.co
+DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,pinecast.net
+DOMAIN-SUFFIX,podbean.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,64clouds.com
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,ultra.me
+DOMAIN-SUFFIX,ultramobile.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,microsoft-falcon.io
+DOMAIN-SUFFIX,microsoftapp.net
+DOMAIN-SUFFIX,location.microsoft.com
+DOMAIN-SUFFIX,graph.microsoft.com
+DOMAIN-SUFFIX,bbc-reporting-api.app
+DOMAIN-SUFFIX,bbchat.tv
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,pki.goog
+# DOMAIN-SUFFIX,svc.ms
+DOMAIN-SUFFIX,rfi.fr
+DOMAIN-SUFFIX,rsshub.app
+DOMAIN-SUFFIX,hamibot.com
+DOMAIN-SUFFIX,feeddd.org
+DOMAIN-SUFFIX,feedx.net
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,membean.com
+DOMAIN-SUFFIX,waitomo.com
+DOMAIN-SUFFIX,gilson.com
+DOMAIN-SUFFIX,crossref.org
+DOMAIN-SUFFIX,zotero.org
+DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,salesforce.com
+DOMAIN-SUFFIX,force.com
+# DOMAIN-SUFFIX,msftauth.net
