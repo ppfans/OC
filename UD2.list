@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,zonealarm.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,entrust.net
 DOMAIN,ppfans.synology.me
+DEST-PORT,587,DIRECT
 # Steam
 DOMAIN-SUFFIX,tnkjmec.com
 DOMAIN-SUFFIX,eccdnx.com
