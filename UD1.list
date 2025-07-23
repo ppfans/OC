@@ -38,7 +38,7 @@ DOMAIN-SUFFIX,64clouds.com
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,ultra.me
 DOMAIN-SUFFIX,ultramobile.com
-DOMAIN-SUFFIX,bing.com
+# DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,microsoft-falcon.io
