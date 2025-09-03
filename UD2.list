@@ -24,7 +24,8 @@ DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,zonealarm.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,entrust.net
-DOMAIN,ppfans.synology.me
+DOMAIN,ppfans.synology.me 
+DOMAIN,myhuaweicloud.com
 # DEST-PORT,587
 # Steam
 DOMAIN-SUFFIX,tnkjmec.com
