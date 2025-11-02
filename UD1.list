@@ -64,8 +64,8 @@ DOMAIN-SUFFIX,waitomo.com
 DOMAIN-SUFFIX,gilson.com
 DOMAIN-SUFFIX,crossref.org
 DOMAIN-SUFFIX,zotero.org
-DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,disney-plus.net
+# DOMAIN-SUFFIX,braze.com
+# DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,salesforce.com
 DOMAIN-SUFFIX,force.com
