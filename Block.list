@@ -20,3 +20,4 @@ DOMAIN-SUFFIX,dm.toutiao.com,REJECT
 DOMAIN-SUFFIX,adsmind.ugdtimg.com,REJECT
 DOMAIN-SUFFIX,qlogo.cn,REJECT
 DOMAIN-SUFFIX,log.umsns.com,REJECT
+DOMAIN-SUFFIX,update.googleapis.com
