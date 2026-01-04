@@ -21,3 +21,4 @@ DOMAIN-SUFFIX,adsmind.ugdtimg.com,REJECT
 DOMAIN-SUFFIX,qlogo.cn,REJECT
 DOMAIN-SUFFIX,log.umsns.com,REJECT
 DOMAIN-SUFFIX,update.googleapis.com
+DOMAIN,edgedl.me.gvt1.com
