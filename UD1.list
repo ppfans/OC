@@ -73,6 +73,7 @@ DOMAIN-SUFFIX,force.com
 # DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-KEYWORD,zlibrary
+DOMAIN-KEYWORD,v2ray
 DOMAIN-KEYWORD,cast
 DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,wizcase.com
@@ -215,3 +216,4 @@ DOMAIN-SUFFIX,tailscale.com
 DOMAIN,my.pcloud.com
 DOMAIN-SUFFIX,gog.com
 #DOMAIN,fs.merckgroup.com
+
