@@ -214,4 +214,4 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN,my.pcloud.com
 DOMAIN-SUFFIX,gog.com
-DOMAIN,fs.merckgroup.com
+#DOMAIN,fs.merckgroup.com
