@@ -11,6 +11,11 @@
 # RULE-SET：Rule Provider 规则匹配
 # MATCH：全匹配
 
+DOMAIN-SUFFIX,login.microsoftonline.com
+DOMAIN-SUFFIX,svc.ms
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,fs.merckgroup.com
+# DOMAIN,fs.merckgroup.com
 DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,drooid.social
 DOMAIN-SUFFIX,proton.me
@@ -51,7 +56,6 @@ DOMAIN-SUFFIX,bbchat.tv
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,pki.goog
-# DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,hamibot.com
@@ -70,7 +74,6 @@ DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,salesforce.com
 DOMAIN-SUFFIX,force.com
-# DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-KEYWORD,zlibrary
 DOMAIN-KEYWORD,v2ray
@@ -78,7 +81,6 @@ DOMAIN-KEYWORD,cast
 DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,wizcase.com
 DOMAIN-SUFFIX,gusmerenterprises.com
-# DOMAIN-SUFFIX,login.microsoftonline.com
 DOMAIN-SUFFIX,concursolutions.com
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,nih.gov
@@ -138,7 +140,6 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ios2web.com
 DOMAIN-SUFFIX,force.com
 DOMAIN-SUFFIX,salesforce.com
-# DOMAIN-SUFFIX,fs.merckgroup.com
 DOMAIN-SUFFIX,openlibrary.org
 DOMAIN-SUFFIX,quotedark.com
 DOMAIN-SUFFIX,volio.vn
@@ -215,5 +216,5 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN,my.pcloud.com
 DOMAIN-SUFFIX,gog.com
-#DOMAIN,fs.merckgroup.com
+
 
