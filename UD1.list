@@ -212,6 +212,14 @@ DOMAIN-SUFFIX,easylist.to
 DOMAIN-SUFFIX,fanboy.co.nz
 DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,open-meteo.com
+DOMAIN-SUFFIX,usgs.gov
+DOMAIN-SUFFIX,weather.gov
+DOMAIN-SUFFIX,picsum.photos
+DOMAIN-SUFFIX,reliefweb.int
+DOMAIN-SUFFIX,gdacs.org
+DOMAIN-SUFFIX,arcgis.com
+
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN,my.pcloud.com
 DOMAIN-SUFFIX,gog.com
