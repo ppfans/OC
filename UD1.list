@@ -224,4 +224,6 @@ DOMAIN-SUFFIX,tailscale.com
 DOMAIN,my.pcloud.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,r2.dev
-
+DOMAIN-SUFFIX,sidestore.io
+DOMAIN-SUFFIX,gsa.apple.com
+DOMAIN-SUFFIX,developerservices2.apple.com
