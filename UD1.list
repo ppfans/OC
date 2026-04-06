@@ -230,6 +230,6 @@ DOMAIN,my.pcloud.com
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,sidestore.io
-# DOMAIN,gsa.apple.com 会导致验证码不通过
+DOMAIN,gsa.apple.com
 DOMAIN,developerservices2.apple.com
 DOMAIN-SUFFIX,sidestore.app
