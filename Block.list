@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,pcs.baidu.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,pagead2.googlesyndication.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
-DOMAIN,is1-ssl.mzstatic.com
+# DOMAIN,is1-ssl.mzstatic.com
 DOMAIN,imasdk.googleapis.com
 DOMAIN,googleads.g.doubleclick.net
 DOMAIN,clients3.google.com
