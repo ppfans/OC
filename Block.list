@@ -26,3 +26,7 @@ DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,brushedtype.co
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,pcs.baidu.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,pagead2.googlesyndication.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,is1-ssl.mzstatic.com:443
