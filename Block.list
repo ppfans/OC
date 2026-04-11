@@ -35,7 +35,10 @@ DOMAIN,imasdk.googleapis.com
 DOMAIN,googleads.g.doubleclick.net
 DOMAIN,clients3.google.com
 DOMAIN,csi.gstatic.com:443
-DOMAIN,firestore.googleapis.com:443
+DOMAIN,firestore.googleapis.com
+DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN-SUFFIX,doubleclick.net
 # other
 DOMAIN-SUFFIX,gameanalytics.com
 DOMAIN-SUFFIX,app-measurement.com
