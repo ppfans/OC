@@ -30,9 +30,16 @@ DOMAIN-SUFFIX,pcs.baidu.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,pagead2.googlesyndication.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
-# DOMAIN,is1-ssl.mzstatic.com
+# DOMAIN,is1-ssl.mzstatic.com apple's app icon server
 DOMAIN,imasdk.googleapis.com
 DOMAIN,googleads.g.doubleclick.net
 DOMAIN,clients3.google.com
 DOMAIN,csi.gstatic.com:443
 DOMAIN,firestore.googleapis.com:443
+# other
+DOMAIN-SUFFIX,gameanalytics.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,instabug.com
+
