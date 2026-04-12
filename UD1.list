@@ -233,3 +233,4 @@ DOMAIN-SUFFIX,sidestore.io
 DOMAIN,gsa.apple.com
 DOMAIN,developerservices2.apple.com
 DOMAIN-SUFFIX,sidestore.app
+DOMAIN-SUFFIX,gradio.app
