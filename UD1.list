@@ -237,4 +237,6 @@ DOMAIN-SUFFIX,gradio.app
 DOMAIN-SUFFIX,anaconda.org
 DOMAIN-SUFFIX,paper2audio.com
 DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN,login.microsoft.com
 DOMAIN-SUFFIX,overdrive.com
