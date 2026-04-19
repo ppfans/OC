@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,log.umsns.com
 DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN,edgedl.me.gvt1.com
-# DOMAIN-SUFFIX,revenuecat.com
+# DOMAIN-SUFFIX,revenuecat.com #in-app purchase
 DOMAIN-SUFFIX,brushedtype.co
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,pcs.baidu.com
@@ -36,7 +36,7 @@ DOMAIN,googleads.g.doubleclick.net
 DOMAIN,clients3.google.com
 DOMAIN,csi.gstatic.com:443
 DOMAIN,firestore.googleapis.com
-DOMAIN,firebaseremoteconfig.googleapis.com
+# DOMAIN,firebaseremoteconfig.googleapis.com #in-app purchase
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,doubleclick.net
 # other
