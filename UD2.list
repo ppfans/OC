@@ -14,7 +14,7 @@
 # 直连
 DOMAIN-SUFFIX,checkpoint.com
 DOMAIN-SUFFIX,kaspersky-labs.com
-DOMAIN-KEYWORD,merck
+# DOMAIN-KEYWORD,merck
 DOMAIN-KEYWORD,millipore
 DOMAIN-SUFFIX,sial.com
 DOMAIN-SUFFIX,ekuaibao.com
